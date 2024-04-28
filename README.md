@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20there!👋&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20there!👋&fontSize=90&textBg=true" />
 
 <a href="https://geniemon0104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
