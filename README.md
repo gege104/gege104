@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### ✨Follow Me✨
 
 <a href="https://geniemon0104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
-<a href="kjgen0104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:kjgen0104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
 
 <p></p>
 
