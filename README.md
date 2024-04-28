@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=c1a3a3&height=200&section=header&text=Hi,%20there!👋&fontSize=60&fontColor=666666"/>
-
-<a href="https://geniemon0104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=c1a3a3&height=200&section=header&text=Hi,%20I'm%20enni!&fontSize=60&fontColor=666666"/>
+### ✨Follow Me✨
+<div class=about_me style="float:left; text-align:center">
+  <a href="https://geniemon0104.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
+  <a href="kjgen0104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF"/></a>
+</div>
